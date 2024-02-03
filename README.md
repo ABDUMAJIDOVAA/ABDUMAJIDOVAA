@@ -10,7 +10,7 @@
 <a href="https://www.instagram.com/azizxon_0_0_8 target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Azizxon" height="30" width="40" /></a>
 <p align="left">
       <h3 align="left">Contact me by telegram :</h3>
-https://t.me/Azizxon_2008  or  https://t.me/Azizxon_29_08_2008
+https://t.me/voha_akoshde_00  or  https://t.me/xech_kim_04
 </p>
 
 
