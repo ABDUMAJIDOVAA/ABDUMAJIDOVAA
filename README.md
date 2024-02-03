@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!+👋;+I'm+!;+I+am+Python+Backend+Django+developer";+⚡️+Fun+fact+I+am+student+and+my+birthday+29+th+of+August"; />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!+👋;+I'm+Abdumajidov+Abduvohid!;+I+am+Python+Backend+Django+developer";+⚡️+Fun+fact+I+am+student+and+my+birthday+29+th+of+August"; />
 </h1>
 
 　　　　　　,　　　　　　　.　　　　　　    　　　　 　　　　　　　　　　　　　　　　　　 ☀️ 　　　　　　　　　　　　　　　　　　    　      　　　　　        　　　　　　　　　　　　　. 　　　　　　　　　　.　　　　　　　　　　　　　. 　　　　　　　　　　　　　　　　       　   　　　　 　　　　　　　　　　　　　　　　       　   　　　　　　　　　　　　　　　　       　    ✦ 　   　　　,　　　　　　　　　　　    🚀 　　　　 　　,　　　 ‍ ‍ ‍ ‍ 　 　　　　　　　　　　　　.　　　　　 　　 　　　.　　　　　　　　　　　　　 　           　　　　　　　　　　　　　　　　　　　˚　　　 　   　　　　,　　　　　　　　　　　       　    　　　　　　　　　　　　　　　　.　　　  　　    　　　　　 　　　　　.　　　　　　　　　　　　　.　　　　　　　　　　　　　　　* 　　   　　　　　 ✦ 　　　　　　　         　        　　　　 　　 　　　　　　　 　　　　　.　　　　　　　　　　　　　　　　　　.　　　　　    　　. 　 　　　　　.　　　　 🌑 　　　　　   　　　　　.　　　　　　　　　　　.　　　　　　　　　　   　
@@ -14,7 +14,7 @@ https://t.me/Azizxon_2008  or  https://t.me/Azizxon_29_08_2008
 </p>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AzizxonAbdulvahobov)](https://github.com/Azizxon/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AbdumajidovAbduvohid)](https://github.com/Abduvohid/github-profile-trophy)
 
 
 <h3 align="left">Languages and Tools:</h3>
